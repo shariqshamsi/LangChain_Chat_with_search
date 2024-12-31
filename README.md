@@ -2,6 +2,8 @@
 # LangChain_Chat_with_search
  This repository demonstrates a Streamlit application integrated with LangChain tools and APIs for enabling interactive search and conversational capabilities. The app allows users to interact with a chatbot that leverages multiple search tools, including Arxiv, Wikipedia, and DuckDuckGo, to provide insightful answers based on the user's queries.
 
+
+
 ## Features
 
 ### 1. **Interactive Chatbot Interface**
@@ -36,6 +38,9 @@
 
 ## API Keys
 - The application requires a valid Groq API key to function. Enter this key in the sidebar when prompted.
-=======
+
+
+
+
 
 
