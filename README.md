@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LangChain_Chat_with_search
  This repository demonstrates a Streamlit application integrated with LangChain tools and APIs for enabling interactive search and conversational capabilities. The app allows users to interact with a chatbot that leverages multiple search tools, including Arxiv, Wikipedia, and DuckDuckGo, to provide insightful answers based on the user's queries.
 
@@ -37,17 +37,5 @@
 ## API Keys
 - The application requires a valid Groq API key to function. Enter this key in the sidebar when prompted.
 =======
----
-title: Search Engine Llm
-emoji: 🏃
-colorFrom: indigo
-colorTo: yellow
-sdk: streamlit
-sdk_version: 1.44.1
-app_file: app.py
-pinned: false
-license: apache-2.0
----
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
->>>>>>> 1d6b24d (initial commit)
+
